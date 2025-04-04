@@ -1,0 +1,19 @@
+{
+  "name": "struct-concept",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+  ],
+  "author": "h41ku <h41ku.c0de@ya.ru>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
